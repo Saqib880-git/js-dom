@@ -10,7 +10,7 @@ h1{
 }
 
 .container{
-    width: 50vh;
+    width: 80vh;
     height:60vw;
     border-radius: 20px;
     background-color: #031f23;
@@ -28,6 +28,8 @@ h1{
 
 input, button{
     padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
     margin: 5px 0px;
     border-radius: 10px;
 }
