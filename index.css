@@ -17,6 +17,7 @@ h1{
     border: 1px solid black;
     position: absolute;
     left: 2%;
+    right: 2%;
     top:10%;
     box-shadow: 0px 0px 10px 8px white;
 }
